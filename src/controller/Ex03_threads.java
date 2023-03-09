@@ -18,7 +18,7 @@ public class Ex03_threads extends Thread{
 	
 		
 	public void mostrasit() {
-		System.out.println("O " +nome +" pulou " +pulo +" cm e percorreu " + Dpercorrida +" cm "); 
+		System.out.println("O " +nome +" pulou " +pulo +" metros e percorreu " + Dpercorrida +" metros "); 
 		 
 	}	
 	
