@@ -14,7 +14,7 @@ public class Principal{
 		
 		for(int i = 1; i<= n_sapos; i++) {
 			
-			thread03 = new Ex03_threads("sapo" +i, distancia);
+			thread03 = new Ex03_threads(" sapo " +i, distancia);
 			thread03.start();
 			
 		}
